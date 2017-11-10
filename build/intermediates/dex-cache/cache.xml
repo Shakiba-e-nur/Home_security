@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\faisal-shakiba\.android\build-cache\1319b485f7f4dcb6de63dd38491a6ec559e4fbb8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\blue_pr\Home_security\app\build\intermediates\pre-dexed\debug\classes_fe95281b38c244db1cd1684d1648f39623f7c2e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\faisal-shakiba\.android\build-cache\c18e2355360a37554537e5ac6701cf29aab547ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\blue_pr\Home_security\app\build\intermediates\pre-dexed\debug\classes_c58eda8f116e94b5c3ad5aee195506af284da5b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\faisal-shakiba\.android\build-cache\4b7fc5d5abae1dd0ed42dff2a729eff544912186\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\blue_pr\Home_security\app\build\intermediates\pre-dexed\debug\classes_62a6cb2808756eb6e2d2d3a49dd8d6e2c1ed4674.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\faisal-shakiba\.android\build-cache\6ee26891929eb696c9da878dd4d494d570e58352\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\blue_pr\Home_security\app\build\intermediates\pre-dexed\debug\classes_1c6f87593b8ac0c30766da6328e42424bdcf479b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\faisal-shakiba\.android\build-cache\f0da13044327eafc8cb926ad315e548bf47328c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\blue_pr\Home_security\app\build\intermediates\pre-dexed\debug\classes_7dec7bab8d40486731d3875cfc79a23cb3e7848b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\faisal-shakiba\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\blue_pr\Home_security\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_ab576120f5f5e19b9971cd434f77b0995705ad18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\faisal-shakiba\.android\build-cache\d54598a2999c91da983de4d5c93c2be0e15ff410\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\blue_pr\Home_security\app\build\intermediates\pre-dexed\debug\classes_18fb6dfc4c343bff2fe119e5bc8cf43931bc8e44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\faisal-shakiba\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\blue_pr\Home_security\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_1162b3b01386dc042b6948529a26794c2adf509f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\blue_pr\Home_security\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3a9e42b0073e21e0995b583e81a3dc04f1386ab9">
+        <dex dex="D:\blue_pr\Home_security\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3eefbbeeb9ff6d8b5bd223ebf4b5f21a8a67404a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\faisal-shakiba\.android\build-cache\284affb63699c62c6f2cec435586bc2417719839\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\blue_pr\Home_security\app\build\intermediates\pre-dexed\debug\classes_c0c352b6335c9873edd3841e072ce0795420e801.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\faisal-shakiba\.android\build-cache\514cb4fe4ae54df9b09de24a635e929e27ac3c31\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\blue_pr\Home_security\app\build\intermediates\pre-dexed\debug\classes_a0120b53b21adad873dd712fe52ae2011e74119e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\faisal-shakiba\.android\build-cache\f275a92cabe68a5362fd591dd6d856670a969d09\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\blue_pr\Home_security\app\build\intermediates\pre-dexed\debug\classes_e46b74b7974c4e04400923754eb76074464c63ad.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\blue_pr\Home_security\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\blue_pr\Home_security\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_dcdeec71518abd0e3957db83ee376c37a5d36c7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\faisal-shakiba\.android\build-cache\f82005179b13f16b64acc5a4162d655a47f76c8b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\blue_pr\Home_security\app\build\intermediates\pre-dexed\debug\classes_0c79e16ff92e0af86260942f4679928324e1241c.jar" />
+    </item>
+
+</items>
