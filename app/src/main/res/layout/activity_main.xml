@@ -21,7 +21,7 @@
         android:id="@+id/done"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="59dp"
+        android:layout_marginBottom="103dp"
         android:background="@drawable/b_1"
         android:textColor="#ffff"
         android:text="Done"
@@ -44,7 +44,9 @@
             android:layout_weight="0.1"
             android:ems="10"
             android:inputType="textPersonName"
-            android:hint = "                                    Server IP"
+            android:hint = "Server IP"
+            android:text="192.168.43.232"
+            android:textAlignment="center"
             android:textColor="#ffff"/>
 
     </LinearLayout>
